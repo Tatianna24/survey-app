@@ -64,6 +64,7 @@ module.exports = configure(function ( ctx ) {
       env: {
         SERVER_URL: ctx.dev ? 'http://localhost:3000' : 'http://3.84.235.6',
         CREATOR_EMAIL: 'Tatiannar0115@gmail.com',
+        CREATOR_NAME: 'Tatianna Rodriguez',
         LINKEDIN: 'https://www.linkedin.com/in//tatiannarodriguez'
       },
       distDir: '../server/public'
